@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CloudBaby</string>
+    <string name="loading">loading...</string>
+    <string name="ok">Ok</string>
+    <string name="title_activity_home_nav">HomeNav</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="registered">Saved</string>
+    <string name="exist">Exist</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_verification_code">Enter Verification Code</string>
+    <string name="verify">Verify</string>
+    <string name="cont">Continue</string>
+    <string name="tab_title1">Phone Number</string>
+    <string name="tab_title2">Verify</string>
+    <string name="your_first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="title_slide_1">We need to know a few things first.</string>
+    <string name="subtitle_slide_1">Please enter your phone number below</string>
+    <string name="verification_message">Enter the verification code sent to you via sms below</string>
+
+    <string name="type_your_message">Type a message</string>
+    <string name="NoRecent">No recent</string>
+    <string name="runtime_permissions_txt">Grant Us the Permissions</string>
+    <string name="refresh_contacts">Refresh Contacts</string>
+    <string name="cloudbaby_share_message">Have you heard about Cloud Baby Android App?\nDownload it today from the Google Play Store.\nThe link is \n\nhttps://play.google.com/store/apps/details?id=app.cloudbaby.co.zw.cloudybaby</string>
+</resources>

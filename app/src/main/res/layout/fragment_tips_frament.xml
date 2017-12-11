@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="app.cloudbaby.co.zw.cloudybaby.biskypackage.chat_module.fragments.TipsFrament">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rcvTips"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <TextView
+        android:id="@+id/txtTips"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/rcvTips"
+        android:layout_marginTop="248dp"
+        android:text="No Tips Received"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:visibility="invisible"
+        android:layout_alignRight="@+id/rcvTips"
+        android:layout_alignEnd="@+id/rcvTips"
+        android:gravity="center_horizontal"
+        android:layout_alignLeft="@+id/rcvTips"
+        android:layout_alignStart="@+id/rcvTips" />
+
+</RelativeLayout>

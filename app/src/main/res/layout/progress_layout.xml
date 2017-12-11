@@ -1,0 +1,12 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <app.cloudbaby.co.zw.cloudybaby.biskypackage.tools.progressbars.ProgressBarCircularIndetermininate
+        android:id="@+id/progress_pv_circular"
+        android:layout_width="@dimen/progress_view_size"
+        android:layout_height="@dimen/progress_view_size"
+        android:layout_centerInParent="true" />
+
+</RelativeLayout>

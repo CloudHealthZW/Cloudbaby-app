@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "681892413284",
+    "firebase_url": "https://cloud-healthcare-709ec.firebaseio.com",
+    "project_id": "cloud-healthcare-709ec",
+    "storage_bucket": "cloud-healthcare-709ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681892413284:android:5c292a37ed229378",
+        "android_client_info": {
+          "package_name": "app.cloudbaby.co.zw.cloudybaby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681892413284-62hl9rjaqjlqq89k1tmcs7a8kfki9gqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYys56VZtSNsO8mQQ7G4nmiyg2wBPbJa8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
